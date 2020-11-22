@@ -12,7 +12,7 @@ import model.services.BrazilTaxService;
 import model.services.RentalService;
 
 public class Program {
-// solução sem interface
+// solução sem interface, Agora 22/11/2020 com interface
 	public static void main(String[] args) throws ParseException {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
